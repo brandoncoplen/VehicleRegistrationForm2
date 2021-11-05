@@ -1,0 +1,72 @@
+@import 'bootstrap/bootstrap';
+@import 'bootstrap/variables';
+@import 'bootstrap/mixins';
+
+body {
+	background-color: black;
+}
+
+
+.container{
+    width: 500px;;
+    height: auto;
+    border-radius: 25px;
+
+
+    background-color: #00b38a;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h3{
+    font-family: "monaco", "monaco";
+}
+
+section{
+	margin: auto;
+	width: auto;
+}
+
+.ftco-section{
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+	
+}
+
+.ftco-no-pt{
+	padding-top: 0;
+}
+
+#parts-section{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#driver-section{
+    margin-left: auto;
+    margin-right: auto;
+}
+.row{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    background-color: #fb4513;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: large;
+
+}
+
+
+
+
+
+
+
+
